@@ -1,0 +1,9 @@
+x=[1,2,3,4]
+n=int(input("num="))
+i=0
+while i<=3:
+    if x[i]==n:
+        print(i)
+    i=i+1
+
+        
